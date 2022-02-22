@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-WebApplication12-0FC1F097-BD57-40FB-8E6C-FC6F5BBD50EC</UserSecretsId>
+    <UserSecretsId>aspnet-ContactManager-0FC1F097-BD57-40FB-8E6C-FC6F5BBD50EC</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
